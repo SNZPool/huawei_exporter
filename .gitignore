@@ -1,0 +1,5 @@
+.env
+.process.env
+
+sample_output
+node_modules
