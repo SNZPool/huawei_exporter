@@ -1,5 +1,6 @@
 .env
 .process.env
 
+dist
 sample_output
 node_modules
